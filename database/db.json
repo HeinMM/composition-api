@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "post title 1",
+      "id": 1,
+      "body": "Loream ipsum"
+    },
+    {
+      "title": "post title 2",
+      "id": 2,
+      "body": "Loream ipsum"
+    },
+    {
+      "title": "post title 3",
+      "id": 3,
+      "body": "Loream ipsum"
+    },
+    {
+      "title": "test",
+      "body": "test body",
+      "tags": ["html","css"],
+      "id": 4
+    },
+    {
+      "title": "test title",
+      "body": "test body",
+      "tags": [
+        "php"
+      ],
+      "id": 5
+    }
+  ]
+}
